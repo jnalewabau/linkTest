@@ -2,7 +2,7 @@
 
 Some page links to test
 
-- [Link to page in same directory](Page1.md)
-- [Link to page in pages directory](pages/Page2.md)
+- [Link to page in same directory](https://github.com/jnalewabau/linkTest/blob/master/Page1.md)
+- [Link to page in pages directory](https://github.com/jnalewabau/linkTest/blob/master/Pages/Page2.md)
 
 Horray
